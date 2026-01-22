@@ -32,7 +32,7 @@ This project provides a comprehensive analysis of the recruitment lifecycle for 
 ![Executive Overview](Executive_Overview.png)
 
 ### Department View
-![Department View](Department View.png)
+![Department View](Department_View.png)
 
 ### Candidate Summary
 ![Candidate Summary](Candidate_Summary.png)
